@@ -12,7 +12,7 @@ Please Follow these instructions before cloning this project:-
      result but work good enough for just testing.
      
      Otherwise for having more accurate results just follow this:
-     ->Now you have to first download nltk (Natural language processing), for that write command: "pip install nltk" then after cloning my project run that "nltk_settings.py" file.
+     ->Now you have to first download nltk (Natural language toolkit), for that write command: "pip install nltk" then after cloning my project run that "nltk_settings.py" file.
        that will open a nltk downloader wizard in which you have to download all packages that would take some time(around 400mb).
      
      ->Now you have to run Main_With_nltk.py only and that's enough for getting output in which you would be able to select 3 options and proceed further.
@@ -21,6 +21,5 @@ Note: If you get errors in commands when you write them in windows command promp
       Anaconda installed in your system and then run them in spyder without any problems.
       
 Note: For Mac-Os kindly follow these links:
-
       1). For installing GetOldTweets3: https://pypi.org/project/GetOldTweets3/
       2). For installing nltk: https://www.nltk.org/data.html
