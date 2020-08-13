@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 2020
+Created on Aug 2020
 
 @author: Anurag Joshi
 """
